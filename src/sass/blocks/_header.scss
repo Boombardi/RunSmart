@@ -1,6 +1,10 @@
 .header {
+  position: relative;
+  top: 21px;
   display: flex;
   justify-content: space-between;
+  max-width: 950px;
+  margin: 0 auto;
 
   &__logo {
     width: 250px;

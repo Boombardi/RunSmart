@@ -1,13 +1,13 @@
 .promo {
     min-height: 650px;
-    padding: 21px 0 93px;
+    margin-top: -53px;
+    padding: 165px 0 93px;
     background: url(../img/main_bg.jpg) center center / cover no-repeat;
 
     &__wrapper {
         display: flex;
         flex-direction: column;
         align-items: flex-end;
-        margin-top: 91px;
     }
 
     &__header {
